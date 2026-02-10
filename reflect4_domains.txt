@@ -283,6 +283,7 @@ proxy.pyxelworld.com
 proxy420.eu
 proxyproxy.net
 proxypulse.top
+proxyscraper.net
 proxyscraper.org
 pub.xapktech.xyz
 puckerbucket.xyz
@@ -376,6 +377,7 @@ vilor.site
 vipturkey.ir
 viraldopes.com
 vpn.52oupa.com
+wealthify.fr
 webbrowser.live
 webjax.ir
 webtester.cc
@@ -395,7 +397,6 @@ www-fast.bingle.pw
 www-fp.jkw.st
 www-funny.pinkertonmc.com
 www-kaskas.bingle.pw
-www-linguafuse.com
 www-lud.monkey3three.com
 www-madcodg.rgserver.in
 www-millionux.bingle.pw
@@ -442,6 +443,7 @@ www-web.sshub.win
 www-web.veranon.io
 www-webproxy.bingle.pw
 www-webprxsvc.drewcotech.com
+www-www.linguafuse.com
 www-www.simplyhoodrat.com
 www-yy.in6.to
 xsfwow.com

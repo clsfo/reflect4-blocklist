@@ -253,6 +253,7 @@ www-croxy.ghgi.site
 www-fast.bingle.pw
 www-fp.jkw.st
 www-kaskas.bingle.pw
+www-learn.wafflenetwork.net
 www-lud.monkey3three.com
 www-madcodg.rgserver.in
 www-millionux.bingle.pw

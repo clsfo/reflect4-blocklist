@@ -30,6 +30,7 @@ bingle.icu
 bingle.pw
 birgerboy.com
 bitusb.ru
+bizdomain.store
 blockaway.cloud
 blujaysbots.com
 boda-vip.net
@@ -294,6 +295,7 @@ www-webproxy.bingle.pw
 www-webprxsvc.drewcotech.com
 www-www.linguafuse.com
 www-www.simplyhoodrat.com
+www-yt.nikooo.ir
 www-yy.in6.to
 yhfl.org
 yuyuproxy.com

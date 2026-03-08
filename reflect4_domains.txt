@@ -272,6 +272,7 @@ www-proxy.deersserverhosting.com
 www-proxy.fluxis.xyz
 www-proxy.formen.cc
 www-proxy.gn-hsrv.space
+www-proxy.hidester.one
 www-proxy.huorbx.com
 www-proxy.kokecoco.me
 www-proxy.konstl01.xyz

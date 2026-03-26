@@ -1,0 +1,23 @@
+name: Propose Missing Domain
+description: "Are there domains missing from the blocklist? Use this form to propose to add them."
+title: "[Missing Domain]: "
+labels: "missing-domain"
+assignees: clsfo
+body:
+  - type: input
+    attributes:
+      label: "Domain(s)"
+      placeholder: "proxy1.example.com, proxy2.example.com, ..."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "How did you find this (these) domains?"
+      description: "e.g. which search engine, what search query?"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Additional Information"
+      description: "Anything additional information you would like to add (optional)."
+      

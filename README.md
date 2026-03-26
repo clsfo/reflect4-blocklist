@@ -3,3 +3,5 @@ Updated regularly by scraping search engine results.
 No guarantees for completeness, but works good enough as a blocklist.
 
 Direct download link [here](https://raw.githubusercontent.com/clsfo/reflect4-blocklist/refs/heads/main/reflect4_domains.txt).
+
+Are there domains missing? Create an issue [here](https://github.com/clsfo/reflect4-blocklist/issues/new?template=propose-domain.yml).

@@ -1,7 +1,7 @@
 name: Propose Missing Domain
 description: "Are there domains missing from the blocklist? Use this form to propose to add them."
 title: "[Missing Domain]: "
-labels: "missing-domain"
+labels: "missing domain"
 assignees: clsfo
 body:
   - type: input

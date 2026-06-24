@@ -46,6 +46,8 @@ croxy.com
 croxy.ghgi.site
 croxy.rocks
 croxyproxy.com
+croxyproxy.id
+croxyproxy.my.id
 croxyproxy.rocks
 crunchymunchy.space
 cubixpvp.net
@@ -98,6 +100,7 @@ image-grid-maker.com
 infinitecampus.online
 ionprox.com
 itsnotevil.com
+ixls.top
 jessehome.xyz
 johnkellyprivate.com
 jongserver.xyz
@@ -188,6 +191,7 @@ sfmcut.com
 shflora.com
 sillygaming.org
 sinaproject.xyz
+sitev3.org
 skibidislicers.xyz
 stackfront.xyz
 studebaker.ir
@@ -208,6 +212,9 @@ thriftychoice.space
 timurpoyraz.com
 tmhhd.tk
 topsun.pw
+totallynotaproxy.com
+totallynotaproxy.info
+totallynotaproxy.org
 tqwrf6t2g.space
 trxnfor.com
 udetaca.tattoo

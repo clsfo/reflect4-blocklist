@@ -46,6 +46,7 @@ croxyproxy.id
 croxyproxy.my.id
 croxyproxy.rocks
 crunchymunchy.space
+cubixpvp.net
 cv-unfiltered.xyz
 dansereau.xyz
 darkfat.com
@@ -115,6 +116,7 @@ lleafyyfr.xyz
 masthisis.ir
 matheen.online
 mathisawesome.lol
+meloo.bond
 mh6mh6mh6mh6mh6.com
 mhany.xyz
 migz.store

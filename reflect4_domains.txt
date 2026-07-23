@@ -247,7 +247,6 @@ www-pro.kosite.net
 www-proxy.2d.su
 www-proxy.dariomingio.it
 www-proxy.deersserverhosting.com
-www-proxy.fluxis.xyz
 www-proxy.formen.cc
 www-proxy.gelaxiz.xyz
 www-proxy.hidester.one

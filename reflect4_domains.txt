@@ -228,6 +228,7 @@ www-p.yvseann.com
 www-pa.linkall.uk
 www-pro.kosite.net
 www-proxy.2d.su
+www-proxy.codingcrafter-dev.de
 www-proxy.dariomingio.it
 www-proxy.deersserverhosting.com
 www-proxy.formen.cc

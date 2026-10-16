@@ -141,6 +141,7 @@ proxy.pyxelworld.com
 proxyproxy.net
 proxyscraper.net
 proxyscraper.org
+proxyz.online
 pub.xapktech.xyz
 raabta.xyz
 randomdomain.shop
@@ -164,6 +165,7 @@ sillygaming.org
 sinaproject.xyz
 sitev3.org
 skibidislicers.xyz
+ssquatch.lol
 stackfront.xyz
 standardized-testing-metrics-hub.com
 studebaker.ir
